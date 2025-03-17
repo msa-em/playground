@@ -8,3 +8,5 @@ ipywidgets
 matplotlib
 ipympl
 k3d
+tifffile
+imagecodecs
