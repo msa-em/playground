@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: msa-playground
+  id: msa-em-playground
   title: Elemental Microscopy Playground
   description: A repository to test new ideas and demo notebooks
   short_title: EM Playground
