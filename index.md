@@ -7,28 +7,7 @@ numbering:
 
 +++ {"part": "abstract"} 
 
-Add your abstract here.
-Avoid complicated equations / citations here, for crossref compatibility.
+Quick playground to illustrate widgets for the Elemental Microscopy journal.
 
 +++
 
-
-+++{"part":"epigraph"}
-:::{warning} Pre-print
-This article has not yet been peer-reviewed.  
-_Updated 2024 August 27_
-:::
-
-+++
-
-+++ {"part": "acknowledgements"} 
-
-Add your acknowledgments, if any, here.
-
-+++
-
-+++ {"part": "competing interests"} 
-## Competing Interests
-
-Add your competing interests, if any, here.
-+++
